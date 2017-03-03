@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "automate-your-dumps", "automate-your-dumps.xproj", "{F87081A7-8037-4025-9AFC-DA97F843EAAC}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "automate-your-dumps", "automate-your-dumps\automate-your-dumps.xproj", "{F87081A7-8037-4025-9AFC-DA97F843EAAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCrasher", "ConsoleCrasher\ConsoleCrasher.csproj", "{309C9B18-9EA4-4636-AEE3-3DE6C67B2529}"
 EndProject

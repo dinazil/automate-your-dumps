@@ -32,7 +32,7 @@ namespace WebApplication.Controllers
 
 		private static void VerifyAuthorized(string currentUser)
 		{
-			if (Environment.MachineName.StartsWith("u"))
+			if (Environment.MachineName.StartsWith("D"))
 				throw new InvalidOperationException("Authorization cannot be requested before logging in.");
 		}
 	}
